@@ -14,6 +14,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## 📷 Preview
 
-![App Screenshot](ss/screenshot.png)
+![App Screenshot](ss/Screenshot.png)
 
 > This is the current version of the UI — basic but functional. More features and design improvements are on the way!
